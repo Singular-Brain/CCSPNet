@@ -1,7 +1,7 @@
 # CCSPNet
 **A Compact Subject-Independent Motor Imagery Framework**
 
-Mahbod Nouri, Faraz Moradi, Hafez Ghaemi, Ali Motie Nasrabadi
+Mahbod Nouri, Faraz Moradi, Hafez Ghaemi, and Ali Motie Nasrabadi
 
 Pre-print: https://arxiv.org/abs/2012.13567
 
@@ -13,5 +13,3 @@ Create a shortcut of the shared folder in your Drive, and run the corresponding 
 
 
 Mode parameter: 'SD' for **subject-dependent** and 'SI' for **subject-independent**
-
-Tested on Google Colab.
