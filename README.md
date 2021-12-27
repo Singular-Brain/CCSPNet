@@ -1,6 +1,8 @@
 # CCSPNet
 **A Compact Subject-Independent Motor Imagery Framework**
 
+Mahbod Nouri, Faraz Moradi, Hafez Ghaemi, Ali Motie Nasrabadi
+
 Pre-print: https://arxiv.org/abs/2012.13567
 
 Link to the preprocessed data and label:
