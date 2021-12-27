@@ -1,9 +1,7 @@
 # CCSPNet
 **A Compact Subject-Independent Motor Imagery Framework**
 
-Pre-print:
-
-https://arxiv.org/abs/2012.13567
+Pre-print: https://arxiv.org/abs/2012.13567
 
 Link to the preprocessed data and label:
 
