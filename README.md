@@ -9,7 +9,7 @@ Link to the preprocessed data and label:
 
 https://drive.google.com/drive/folders/1pcskugvKgo5sCuFzAJbiK6xNO1up12JO?usp=sharing
 
-Create a shortcut of the shared folder in your Drive, and run the corresponding cell in the notebook to load the data
+Create a shortcut of the shared folder in your Drive, and run the corresponding cell in the notebook to load the data.
 
 
 Mode parameter: 'SD' for **subject-dependent** and 'SI' for **subject-independent**
