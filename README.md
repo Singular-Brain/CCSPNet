@@ -1,7 +1,11 @@
 # CCSPNet
-**A Compact Subject-Independent Motor Imagery Framework**
 
-Mahbod Nouri, Faraz Moradi, Hafez Ghaemi, and Ali Motie Nasrabadi
+
+**Paper:** Mahbod Nouri, Faraz Moradi, Hafez Ghaemi, Ali Motie Nasrabadi, Towards real-world BCI: CCSPNet, a
+compact subject-independent motor imagery framework, Digital Signal Processing, 2022, 103816, ISSN
+1051-2004.
+
+**DOI:** https://doi.org/10.1016/j.dsp.2022.103816
 
 Pre-print: https://arxiv.org/abs/2012.13567
 
